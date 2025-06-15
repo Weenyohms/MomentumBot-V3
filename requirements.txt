@@ -1,0 +1,5 @@
+iqoptionapi
+python-telegram-bot
+requests
+dotenv
+schedule
